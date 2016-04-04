@@ -1,9 +1,12 @@
 Getting and Cleaning Data (Course Project)
 ---
+
 This is a repository of the code and all related documentation files for Course Project of Coursera course "Getting and Cleaning Data".
----
+
+
 The dataset that have been used is : [*Human Activity Recognition Using Smartphones*](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
----
+
+
 # Code and Documentation Files
 `CodeBook.md` : indicates all the variables and summaries calculated, along with units, and any other relevant information.
 

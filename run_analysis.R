@@ -1,4 +1,4 @@
-setwd('~/Desktop/courseara/submission/')
+setwd('~/Desktop/courseara/submission/Getting-and-Cleaning-data-Course-Project/')
 library(plyr)
 #######################################################
 #######################################################

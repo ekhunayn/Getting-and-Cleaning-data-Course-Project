@@ -22,4 +22,4 @@ So,
 * `activity_labels` variable for the correct names of the `y_dataset` information.
 * `all_data` merges variables `x_dataset`, `y_dataset` and `subject_dataset` in a big single dataset.
 * `averages` a variable that contains the results of output averages which stored in a `averages.txt` file.
-* `ddply()` function from the plyr package is used to apply `colMeans()`.
+* `ddply()` function from the plyr R package is used to apply `colMeans()`.
