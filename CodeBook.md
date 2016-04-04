@@ -14,7 +14,7 @@ So,
 * For step four, we correct all columns names. Then, we create a single data set for all data.
 * Finally, er create a new dataset with all average measures of each variable for each activity and each subject. Then, we write the results in output file called `averages.txt` (in this repo).
 
-# Used Variables
+# Variables
 
 * `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` represents the data of the downloaded datasets files.
 * `x_dataset`, `y_dataset` and `subject_dataset` contains the merged previous datasets and some analysis.

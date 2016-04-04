@@ -5,9 +5,10 @@ This is a repository of the code and all related documentation files for Course 
 
 
 The dataset that have been used is : [*Human Activity Recognition Using Smartphones*](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-
+It is uploaded in this repo in folder `UCI_HAR_Dataset`
 
 # Code and Documentation Files
+
 `CodeBook.md` : indicates all the variables and summaries calculated, along with units, and any other relevant information.
 
 `run_analysis.R` : R script that does that does the following:
