@@ -15,4 +15,4 @@ The dataset that have been used is : [*Human Activity Recognition Using Smartpho
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-`averages_data.txt`: is the output result of the 5th step.  
+`averages.txt`: is the output result of the 5th step.  
